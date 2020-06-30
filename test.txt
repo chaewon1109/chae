@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 dustjr
+=======
+chaewon1
+>>>>>>> origin/master
